@@ -15,13 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="l0004.cpp">
+    <ClCompile Include="l0009.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="README.md">
-      <Filter>Source Files</Filter>
-    </None>
+    <None Include="README.md" />
   </ItemGroup>
 </Project>

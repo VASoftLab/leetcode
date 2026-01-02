@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c2133358-27ee-41bc-a4bb-7d9a5145bdb8}</ProjectGuid>
-    <RootNamespace>l0004</RootNamespace>
+    <ProjectGuid>{666c2a41-6575-431c-a7de-16b54dd57ad2}</ProjectGuid>
+    <RootNamespace>l0009</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -131,7 +131,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="l0004.cpp" />
+    <ClCompile Include="l0009.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
